@@ -1,12 +1,19 @@
 # MSBX5420 Team Project Overview
-The whole idea of the team project is to use what we learned in this course to solve some interesting and important problems. 
+The purpose of this team project is to implement what we have learned in the MSBX5420 course to solve some problems using a real world data set.
 
 # Team Members
-Kuchar, Matthew <br/>
-Lee, Chaerin <br/>
-Panda, Soumya <br/>
-Goldbeck, Ethan <br/>
-Duke, Dean
+Chaerin Lee <br/>
+Dean Duke <br/>
+Ethan Goldbeck <br/>
+Matthew Kuchar <br/>
+Soumya Panda <br/>
+
+# Technologies/Concepts Used
+AWS S3 - To Ingest and Read Data
+Python - PySpark
+Data Analysis and Visualization
+PySpark Machine Learning
+
 
 # Objective
 This objective of this project is to work with big data in the AWS environment. Ingest dataset to Hdfs or S3 and save as Parquet format. Basic statistics and analysis of the ingested dataset and display (use Jupyter notebook or other type of visualization)  
