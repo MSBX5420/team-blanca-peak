@@ -9,10 +9,10 @@ Matthew Kuchar <br/>
 Soumya Panda <br/>
 
 # Technologies/Concepts Used
-AWS S3 - To Ingest and Read Data
-Python - PySpark
-Data Analysis and Visualization
-PySpark Machine Learning
+AWS S3 - To Ingest and Read Data <br/>
+Python - PySpark <br/>
+Data Analysis and Visualization <br/>
+PySpark Machine Learning <br/>
 
 
 # Objective
