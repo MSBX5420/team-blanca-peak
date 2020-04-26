@@ -16,7 +16,7 @@ PySpark Machine Learning <br/>
 
 
 # Objective
-This objective of this project is to work with big data in the AWS environment. Ingest dataset to Hdfs or S3 and save as Parquet format. Basic statistics and analysis of the ingested dataset and display (use Jupyter notebook or other type of visualization)  
+This objective of this project is to work on big data in the AWS environment. Ingest dataset to Hdfs or S3 and save as Parquet format. Basic statistics, data analysis, visualization and machine learning using the ingested dataset.
 
 # Dataset
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
