@@ -1,5 +1,5 @@
-# MSBX5420 Team Project Overview
-The purpose of this team project is to implement what we have learned in the MSBX5420 course to solve some problems using a real world data set.
+# Objective
+This objective of this project is to work on big data in the AWS environment. Ingest dataset to Hdfs or S3 and save as Parquet format. Basic statistics, data analysis, visualization and machine learning using the ingested dataset.
 
 # Team Members
 Chaerin Lee <br/>
@@ -13,10 +13,6 @@ AWS S3 - To Ingest and Read Data <br/>
 Python - PySpark <br/>
 Data Analysis and Visualization <br/>
 PySpark Machine Learning <br/>
-
-
-# Objective
-This objective of this project is to work on big data in the AWS environment. Ingest dataset to Hdfs or S3 and save as Parquet format. Basic statistics, data analysis, visualization and machine learning using the ingested dataset.
 
 # Dataset
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
