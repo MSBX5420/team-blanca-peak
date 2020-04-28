@@ -16,7 +16,7 @@ We have ingested and completed analysis of New York City Yellow Taxi Data from 2
 -	The three pickup locations with the highest total trips are 138 161 230
 -	The Average Trip Distance is 2.8 miles
 -	The Average Trip Time is 17.72 minutes
--	1) March: 7834050 rides;    2) January: 7664883 rides;    3) May: 7563790 rides
+-	March: 7834050 rides;  January: 7664883 rides;  May: 7563790 rides
 -	7pm had the most rides on average, and 5am had the longest rides on average
 
 # Team Members
